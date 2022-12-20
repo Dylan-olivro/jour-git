@@ -1,0 +1,29 @@
+body {
+  background-color: #efc88b;
+  box-sizing: border-box;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  font-family: "Roboto", sans-serif;
+  max-width: 1920px;
+  align-items: center;
+}
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  letter-spacing: 20px;
+}
+thead td {
+  margin: 1%;
+}
+table {
+  border: 1px solid black;
+}
+thead {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+td {
+  border: 1px solid black;
+}
